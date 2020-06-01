@@ -37,6 +37,10 @@ Ratios of integers are called rational numbers or Fractions. This is all the fra
 
 Real numbers (R), (also called measuring numbers or measurement numbers). This includes all numbers that can be written as a decimal. This includes fractions written in decimal form e.g., 0.5, 0.75 2.35, ⁻0.073, 0.3333, or 2.142857. It also includes all the irrational numbers such as π, √2 etc. Every real number corresponds to a point on the number line.
 
+#### Complex Numbers (C)
+
+Complex numbers are useful abstract quantities that can be used in calculations and result in physically meaningful solutions. 
+
 ### Operations
 
 There are four types of operations: 
