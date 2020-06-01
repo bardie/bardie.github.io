@@ -51,11 +51,11 @@ There are four types of operations:
 </p>
 </div>
 
-#### Division (\(\div\)).
+#### Division (÷).
 
 <div class="math">
 <p>
-\(12 \(\div\) 2 = 6\)
+\(12 \div 2 = 6\)
 </p>
 <p>
 \(\frac{3}{4}\) \(\div\) \(\frac{5}{7}\) = \(\frac{3}{4}\) \(\times\) \(\frac{7}{5}\) = \(\frac{3 \times 7}{4 \times 5}\) = \(\frac{21}{20}\)
