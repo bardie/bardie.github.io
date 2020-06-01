@@ -30,6 +30,7 @@ body {
   width: 90%;
   max-width: $container-max-width;
   margin: 0 auto;
+  float: right;
 }
 
 /* menu start */
@@ -43,6 +44,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  float: right;
 }
 
 /* Style the sidenav links and the dropdown button */
