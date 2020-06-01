@@ -16,7 +16,9 @@ Natural numbers can go past a million, a billion, a trillion, and so on.
 
 ### Operations
 
-There are four types of operations: addition (+), subtraction (-), multiplication (x) and division (÷).
+There are four types of operations: 
+
+#### Addition (+)
 
 <div class="math">
 <p>
@@ -25,28 +27,46 @@ There are four types of operations: addition (+), subtraction (-), multiplicatio
 <p>
 \(\frac{1}{3}\) + \(\frac{3}{7}\) = \(\frac{1 . 7}{3 . 7}\) + \(\frac{3 . 3}{3 . 7}\) = \(\frac{16}{21}\)
 </p>
-  
-&frac13; + <sup>3</sup>&frasl;<sup>7</sup> = <sup>7</sup>&frasl;<sup>21</sup> + <sup>9</sup>&frasl;<sup>21</sup> = <sup>16</sup>&frasl;<sup>21</sup>
-
-  When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
-  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
-  
-137 + 150 = 287
-
-&frac14; + &frac14; = &frac24;
-
-143 - 12 = 131
-
-&frac45; + &frac35; = &frac15;
-
-12 ÷ 2 = 6
-
-&frac45; ÷ &frac12; = &frac45; x &frac21; = &frac85;
-
-120 - 500 = -380
-
 </div>
 
+#### Subtraction (-)
+
+<div class="math">
+<p>
+\(143 - 12 = 131\)
+</p>
+<p>
+\(\frac{1}{4}\) - \(\frac{5}{6}\) = \(\frac{1 . 5}{4 . 6}\) = \(\frac{5}{24}\)
+</p>
+</div>
+
+#### Multiplication (x)
+
+<div class="math">
+<p>
+\(12 x 6 = 36\)
+</p>
+<p>
+\(\frac{1}{4}\) x \(\frac{5}{6}\) = \(\frac{1 . 5}{4 . 6}\) = \(\frac{5}{24}\)
+</p>
+</div>
+
+#### Division (÷).
+
+<div class="math">
+<p>
+\(12 ÷ 2 = 6\)
+</p>
+<p>
+\(\frac{3}{4}\) ÷ \(\frac{5}{7}\) = \(\frac{3}{4}\) x \(\frac{7}{5}\) = \(\frac{3 . 7}{4 . 5}\) = \(\frac{21}{20}\)
+</p>
+<p>
+7\(\frac{2}{5}\) = \(\frac{7}{1}\) + \(\frac{2}{5}\) = \(\frac{7 . 5}{1 . 5}\) + \(\frac{2}{5}\) = \(\frac{35}{5}\) + \(\frac{2}{5}\) = \(\frac{37}{5}\)
+</p>
+  <p>
+\(\frac{11}{7}\) = \(11 ÷ 7 = 1 R 4 \) = 1 \(\frac{4}{7}\)
+</p>
+</div>
 
 ### Rational Numbers
 
