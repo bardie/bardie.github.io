@@ -17,11 +17,19 @@ Natural numbers can go past a million, a billion, a trillion, and so on.
 There are four types of operations: addition (+), subtraction (-), multiplication (x) and division (÷).
 
 ```
-12 X 20 = 240
+12 x 20 = 240
 137 + 150 = 287
 143 - 12 = 131
 12 ÷ 2 = 6
 120 - 500 = -380
 ```
+###Rational Numbers
+Ratios of integers are called rational numbers, and you get one for any pairs of integers, so long as the second integer, called the denominator, is not zero.
+
+```
+
+```
+
+###BODMAS
 
 [back](../)
