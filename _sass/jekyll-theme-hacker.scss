@@ -27,7 +27,7 @@ body {
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 80%;
+  width: 85%;
   max-width: $container-max-width;
   margin: 0 auto;
 }
@@ -35,7 +35,7 @@ body {
 /* menu start */
 .sidenav {
   height: 100%;
-  width: 20%;
+  width: 15%;
   position: fixed;
   z-index: 1;
   top: 1;
@@ -82,7 +82,6 @@ body {
 /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
 .dropdown-container {
   display: none;
-  background-color: #eeefed;
   padding-left: 8px;
   font-size: 16px;
   line-height: 3;
