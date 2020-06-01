@@ -6,13 +6,36 @@ layout: default
 
 ### Numbers
 
-A number is a mathematical object used to count, measure, and label. A category of numbers is Natural numbers, which are 
+#### Natural Numbers (N)
 
+Also called positive integers, counting numbers, or natural numbers.
 ```
 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ..........
 ```
 
-Natural numbers can go past a million, a billion, a trillion, and so on.
+#### Whole Numbers (W)
+
+This is the set of  natural numbers, plus zero
+
+```
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ..........
+```
+
+#### Integers (Z)
+
+This is the set of all whole numbers plus all the negatives (or opposites) of the natural numbers.
+
+```
+......, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, ..........
+```
+
+#### Rational Numbers (Q)
+
+Ratios of integers are called rational numbers or Fractions. This is all the fractions where the top and bottom numbers are integers; e.g., 1/2, 3/4, 7/2, ⁻4/3, 4/1 [Note: The denominator cannot be 0, but the numerator can be].
+
+##### Real Numbers (R)
+
+Real numbers (R), (also called measuring numbers or measurement numbers). This includes all numbers that can be written as a decimal. This includes fractions written in decimal form e.g., 0.5, 0.75 2.35, ⁻0.073, 0.3333, or 2.142857. It also includes all the irrational numbers such as π, √2 etc. Every real number corresponds to a point on the number line.
 
 ### Operations
 
@@ -67,12 +90,6 @@ i)   7\(\frac{2}{5}\) = \(\frac{7}{1}\) + \(\frac{2}{5}\) = \(\frac{7 \times 5}{
 j)   \(\frac{11}{7}\) = \(11 \div 7 = 1 R 4 \) = 1 \(\frac{4}{7}\)
 </p>
 </div>
-
-### Rational Numbers
-
-Ratios of integers are called rational numbers, and you get one for any pairs of integers, so long as the second integer, called the denominator, is not zero.
-
-Example: &frac14;
 
 ### BODMAS
 
