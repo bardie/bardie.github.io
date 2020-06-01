@@ -29,7 +29,8 @@ There are four types of operations: addition (+), subtraction (-), multiplicatio
 
 Ratios of integers are called rational numbers, and you get one for any pairs of integers, so long as the second integer, called the denominator, is not zero.
 
-<sup>4</sup>&frasl;<sub>5</sub>
+Example: <sup>4</sup>&frasl;<sub>5</sub>
+&frac14;
 
 ### BODMAS
 
