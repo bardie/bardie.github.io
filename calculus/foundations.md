@@ -25,7 +25,7 @@ There are four types of operations:
 \(12 + 20 = 240\)
 </p>
 <p>
-\(\frac{1}{3}\) + \(\frac{3}{7}\) = \(\frac{1 \(\times\) 7}{3 \(\times\) 7}\) + \(\frac{3 \(\times\) 3}{3 \(\times\) 7}\) = \(\frac{16}{21}\)
+\(\frac{1}{3}\) + \(\frac{3}{7}\) = \(\frac{1 \times 7}{3 \times 7}\) + \(\frac{3 \times 3}{3 \times 7}\) = \(\frac{16}{21}\)
 </p>
 </div>
 
@@ -36,7 +36,7 @@ There are four types of operations:
 \(143 - 12 = 131\)
 </p>
 <p>
-\(\frac{1}{4}\) - \(\frac{5}{6}\) = \(\frac{1 \(\times\) 5}{4 \(\times\) 6}\) = \(\frac{5}{24}\)
+\(\frac{1}{4}\) - \(\frac{5}{6}\) = \(\frac{1 \times 5}{4 \times 6}\) = \(\frac{5}{24}\)
 </p>
 </div>
 
@@ -47,7 +47,7 @@ There are four types of operations:
 \(12 x 6 = 36\)
 </p>
 <p>
-\(\frac{1}{4}\) \(\times\) \(\frac{5}{6}\) = \(\frac{1 \(\times\) 5}{4 \(\times\) 6}\) = \(\frac{5}{24}\)
+\(\frac{1}{4}\) \(\times\) \(\frac{5}{6}\) = \(\frac{1 \times 5}{4 \times 6}\) = \(\frac{5}{24}\)
 </p>
 </div>
 
@@ -58,7 +58,7 @@ There are four types of operations:
 \(12 \(\div\) 2 = 6\)
 </p>
 <p>
-\(\frac{3}{4}\) \(\div\) \(\frac{5}{7}\) = \(\frac{3}{4}\) \(\times\) \(\frac{7}{5}\) = \(\frac{3 \(\times\) 7}{4 \(\times\) 5}\) = \(\frac{21}{20}\)
+\(\frac{3}{4}\) \(\div\) \(\frac{5}{7}\) = \(\frac{3}{4}\) \(\times\) \(\frac{7}{5}\) = \(\frac{3 \times 7}{4 \times 5}\) = \(\frac{21}{20}\)
 </p>
 <p>
 7\(\frac{2}{5}\) = \(\frac{7}{1}\) + \(\frac{2}{5}\) = \(\frac{7 \times 5}{1 . 5}\) + \(\frac{2}{5}\) = \(\frac{35}{5}\) + \(\frac{2}{5}\) = \(\frac{37}{5}\)
