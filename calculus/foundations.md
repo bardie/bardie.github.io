@@ -4,14 +4,24 @@ layout: default
 
 ## Calculus Foundations
 
-Calculus is involves the study of rates of change. It is commonly used in engineering, economics, statistics, and medicine.
+###Numbers
+A number is a mathematical object used to count, measure, and label. A category of numbers is Natural numbers, which are 
 
-### Calculus in Cyber Security
-In Cyber Security, Calculus is used to determine and identify changes within an organisations network. Examples include changes in the amount traffic, number of users, access to external and internal data etc.
+```
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ..........
+```
 
-Cyber Security Analysts can use calculus to:
-*   Predict an increase or decrease of traffic within a network.
-*   Identify anomalous activity within the network.
-*   Identify rogue users or devices on the network
+Natural numbers can go past a million, a billion, a trillion, and so on.
+
+###Operations
+There are four types of operations: addition (+), subtraction (-), multiplication (x) and division (÷).
+
+```
+12 X 20 = 240
+137 + 150 = 287
+143 - 12 = 131
+12 ÷ 2 = 6
+120 - 500 = -380
+```
 
 [back](../)
