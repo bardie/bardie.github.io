@@ -18,14 +18,16 @@ Natural numbers can go past a million, a billion, a trillion, and so on.
 
 There are four types of operations: addition (+), subtraction (-), multiplication (x) and division (÷).
 
-
-    12 x 20 = 240
-    137 + 150 = 287
-    143 - 12 = 131
-    12 ÷ 2 = 6
-    120 - 500 = -380
 <div class="math">
-&frac14;
+12 x 20 = 240
+&frac13; + &frac37; = &frac721; + &frac921; = &frac1621;
+137 + 150 = 287
+&frac14; + &frac14; = &frac24;
+143 - 12 = 131
+&frac45; + &frac35; = &frac15;
+12 ÷ 2 = 6
+&frac45; ÷ &frac12; = &frac45; x &frac21; = &frac85;
+120 - 500 = -380
 </div>
 
 
