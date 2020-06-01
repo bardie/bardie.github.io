@@ -46,6 +46,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  text-decoration: none;
 }
 
 /* Style the sidenav links and the dropdown button */
@@ -62,7 +63,7 @@ body {
 
 /* On mouse-over */
 .sidenav a:hover, .dropdown-btn:hover {
-  color: #f1f1f1;
+  color: #B5E753;
 }
 
 /* Main content */
@@ -81,7 +82,7 @@ body {
 /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
 .dropdown-container {
   display: none;
-  background-color: #262626;
+  background-color: #B5E753;
   padding-left: 8px;
 }
 
