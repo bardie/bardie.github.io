@@ -22,7 +22,7 @@ There are four types of operations: addition (+), subtraction (-), multiplicatio
   
 12 x 20 = 240
   
-&frac13; + &frac37; = &frac721; + &frac921; = &frac1621;
+&frac13; + <sup>3</sup>&frasl;<sup>7</sup> = <sup>7</sup>&frasl;<sup>21</sup> + <sup>9</sup>&frasl;<sup>21</sup> = <sup>16</sup>&frasl;<sup>21</sup>
   
 137 + 150 = 287
 
