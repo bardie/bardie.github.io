@@ -34,14 +34,14 @@ body {
 
 /* menu start */
 .sidenav {
-  height: 100%;
+  height: 90%;
   width: 10%;
   position: fixed;
   z-index: 1;
   top: 0;
   left: 0;
   overflow-x: hidden;
-  padding-top: 20px;
+  margin-top: 10%;
   background: $body-background url("../images/bkg.png") 0 0;
   color: $body-foreground;
 }
