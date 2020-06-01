@@ -41,6 +41,15 @@ Real numbers (R), (also called measuring numbers or measurement numbers). This i
 
 Complex numbers are useful abstract quantities that can be used in calculations and result in physically meaningful solutions. 
 
+Example:
+
+<div class="math">
+<p>
+ \(z = x + i y \)
+</p>
+</div>
+
+
 ### Operations
 
 There are four types of operations: 
