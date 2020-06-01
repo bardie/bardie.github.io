@@ -82,8 +82,11 @@ body {
 /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
 .dropdown-container {
   display: none;
-  background-color: #B5E753;
+  background-color: #eeefed;
   padding-left: 8px;
+  font-size: 16px;
+  line-height: 3;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 /* Optional: Style the caret down icon */
