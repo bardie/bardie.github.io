@@ -41,7 +41,7 @@ body {
   top: 1;
   left: 0;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 3;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
@@ -61,6 +61,9 @@ body {
 /* On mouse-over */
 .sidenav a:hover, .dropdown-btn:hover {
   color: #B5E753;
+  font-size: 16px;
+  line-height: 3;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 /* Main content */
