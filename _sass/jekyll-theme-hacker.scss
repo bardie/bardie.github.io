@@ -44,7 +44,11 @@ body {
   line-height: 3;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   overflow: scroll;
-  overflow: hidden;
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
+.sidenav::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
 }
 
 /* Style the sidenav links and the dropdown button */
