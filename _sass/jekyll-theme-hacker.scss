@@ -34,16 +34,18 @@ body {
 
 /* menu start */
 .sidenav {
-  height: 90%;
+  height: 50%;
   width: 10%;
   position: fixed;
   z-index: 1;
   top: 0;
   left: 0;
   overflow-x: hidden;
-  margin-top: 10%;
-  background: $body-background url("../images/bkg.png") 0 0;
+  margin-top: 50%;
   color: $body-foreground;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 /* Style the sidenav links and the dropdown button */
