@@ -29,11 +29,7 @@ There are four types of operations: addition (+), subtraction (-), multiplicatio
 
 Ratios of integers are called rational numbers, and you get one for any pairs of integers, so long as the second integer, called the denominator, is not zero.
 
-```
-  When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
-  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
-
-```
+ h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 ### BODMAS
 
