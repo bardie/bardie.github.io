@@ -44,7 +44,7 @@ There are four types of operations:
 
 <div class="math">
 <p>
-\(12 x 6 = 36\)
+\(12 \times 6 = 36\)
 </p>
 <p>
 \(\frac{1}{4}\) \(\times\) \(\frac{5}{6}\) = \(\frac{1 \times 5}{4 \times 6}\) = \(\frac{5}{24}\)
