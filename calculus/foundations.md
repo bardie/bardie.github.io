@@ -4,7 +4,7 @@ layout: default
 
 ## Calculus Foundations
 
-###Numbers
+### Numbers
 
 A number is a mathematical object used to count, measure, and label. A category of numbers is Natural numbers, which are 
 
@@ -14,7 +14,7 @@ A number is a mathematical object used to count, measure, and label. A category 
 
 Natural numbers can go past a million, a billion, a trillion, and so on.
 
-###Operations
+### Operations
 
 There are four types of operations: addition (+), subtraction (-), multiplication (x) and division (÷).
 
@@ -25,7 +25,7 @@ There are four types of operations: addition (+), subtraction (-), multiplicatio
 12 ÷ 2 = 6
 120 - 500 = -380
 ```
-###Rational Numbers
+### Rational Numbers
 
 Ratios of integers are called rational numbers, and you get one for any pairs of integers, so long as the second integer, called the denominator, is not zero.
 
@@ -35,6 +35,6 @@ Ratios of integers are called rational numbers, and you get one for any pairs of
 
 ```
 
-###BODMAS
+### BODMAS
 
 [back](../)
