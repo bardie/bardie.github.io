@@ -42,14 +42,13 @@ body {
   left: 0;
   overflow-x: hidden;
   padding-top: 20px;
+  background: $body-background url("../images/bkg.png") 0 0;
+  color: $body-foreground;
 }
 
 /* Style the sidenav links and the dropdown button */
 .sidenav a, .dropdown-btn {
-  padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 20px;
-  color: #818181;
   display: block;
   border: none;
   background: none;
