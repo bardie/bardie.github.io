@@ -23,6 +23,9 @@ There are four types of operations: addition (+), subtraction (-), multiplicatio
 12 x 20 = 240
   
 &frac13; + <sup>3</sup>&frasl;<sup>7</sup> = <sup>7</sup>&frasl;<sup>21</sup> + <sup>9</sup>&frasl;<sup>21</sup> = <sup>16</sup>&frasl;<sup>21</sup>
+
+  When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
   
 137 + 150 = 287
 
