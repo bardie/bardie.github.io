@@ -23,7 +23,7 @@ There are four types of operations: addition (+), subtraction (-), multiplicatio
 \(12 + 20 = 240\)
 </p>
 <p>
-\(\frac{1}{3}\) + \(\frac{3}{7}\) = \(\frac{7}{21}\) + \(\frac{9}{21}\) = \(\frac{16}{21}\)
+\(\frac{1}{3}\) + \(\frac{3}{7}\) = \(\frac{1 . 7}{3 . 7}\) + \(\frac{3 . 3}{3 . 7}\) = \(\frac{16}{21}\)
 </p>
   
 &frac13; + <sup>3</sup>&frasl;<sup>7</sup> = <sup>7</sup>&frasl;<sup>21</sup> + <sup>9</sup>&frasl;<sup>21</sup> = <sup>16</sup>&frasl;<sup>21</sup>
