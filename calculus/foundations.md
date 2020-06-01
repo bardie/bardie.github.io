@@ -105,7 +105,7 @@ j)   \(\frac{11}{7}\) = \(11 \div 7 = 1 R 4 \) = 1 \(\frac{4}{7}\)
 </div>
 
 ### BODMAS
-
+Based on the BODMAS rule, **Brackets (B)** have to be solved first followed by **Orders (O)** - powers or roots (i.e. of), then **Division (D)**, **Multiplication (M)**, **Addition (A)** and at the end **Subtraction (S)**. Solving any expression is considered correct only if the BODMAS rule or the PEDMAS rule is followed to solve it.
 
 ### Fibonacci Numbers
 
@@ -120,6 +120,6 @@ The next number is found by adding up the two numbers before it:
 *   the 5 is (2+3),
 *   and so on!
 
-
+### Pascals Triangle
 
 [back](../)
