@@ -24,8 +24,10 @@ There are four types of operations: addition (+), subtraction (-), multiplicatio
     143 - 12 = 131
     12 ÷ 2 = 6
     120 - 500 = -380
+<div class="math">
+&frac14;
+</div>
 
-    &frac14; 
 
 ### Rational Numbers
 
