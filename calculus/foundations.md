@@ -122,4 +122,10 @@ The next number is found by adding up the two numbers before it:
 
 ### Pascals Triangle
 
+![Branching](../../assets/images/pascals-triangle.png)
+
+![Branching](../../assets/images/odd-numbers.gif)
+
+![Branching](../../assets/images/PascalTriangleAnimated2.gif)
+
 [back](../)
