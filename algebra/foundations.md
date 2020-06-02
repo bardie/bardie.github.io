@@ -25,7 +25,7 @@ layout: default
 2. Divide Powers
   <div class="math">
   <p>
-  \(\frac{4^6}{4^x}}\)
+  \(\frac{4^6}{4^x}\)
   </p>
   <p>
   \(\frac{a^6}{a}\)
