@@ -185,8 +185,11 @@ f(3) = 2
 </p>
 </div>
 
-*   Function Names: These usually consists of letters such as f, gf,g or hh.
-*   Arguments: This are the domains of the function. Example (1), (2), (3) 
-*   Values: These are values assigned values to the function.
+*   **Function Names**: These usually consists of letters such as f, gf,g or hh.
+*   **Arguments**: This are the domains of the function. Example (1), (2), (3) 
+*   **Values**: These are values assigned values to the function.
+*   **Range**: Outputs of a function.
+*   **Ordered Pairs**: An input and its matching output are together called an ordered pair.
+ 
 
 [back](../)
