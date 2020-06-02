@@ -156,5 +156,37 @@ Pascal's Triangle is a number pattern named after Blaise Pascal, a famous French
 
 ![Octocat](../../assets/images/odd-numbers.gif)
 
+### Linear Functions
+
+#### What is a Function?
+A function relates an input to an output. It consists of an input, relationship and an output.
+
+| Input        | Relationship      | Output |
+|:-------------|:------------------|:-------|
+| 2            | x 2               | 4      |
+| 3            | x 2               | 6      |
+| 5            | x 2               | 10     |
+| 10           | x 2               | 20     |
+
+A function is made up of:
+
+<div class="math">
+<p>
+f(1) = 1
+</p>
+<p>
+f(1) = 1
+</p>
+<p>
+f(2) = 1
+</p>
+<p>
+f(3) = 2
+</p>
+</div>
+
+*   Function Names: These usually consists of letters such as f, gf,g or hh.
+*   Arguments: This are the domains of the function. Example (1), (2), (3) 
+*   Values: These are values assigned values to the function.
 
 [back](../)
