@@ -122,11 +122,11 @@ The next number is found by adding up the two numbers before it:
 
 ### Pascals Triangle
 
-![Branching](../../assets/images/pascals-triangle.png)
+![Octocat](../../assets/images/pascals-triangle.png)
 
 Pascal's Triangle is a number pattern named after Blaise Pascal, a famous French Mathematician and Philosopher. To build the triangle, you start with "1" at the top, then continue placing numbers below it in a triangular pattern. Each number is the numbers directly above it added together.
 
-![Branching](../../assets/images/PascalTriangleAnimated2.gif)
+![Octocat](../../assets/images/PascalTriangleAnimated2.gif)
 
 #### Characteristics of the Pascals Triangle
 
@@ -137,12 +137,24 @@ Pascal's Triangle is a number pattern named after Blaise Pascal, a famous French
 *   Tetrahedral Numbers
 
 2. **Symmetrical**: The triangle is also symmetrical. The numbers on the left side have identical matching numbers on the right side, like a mirror image.
+
 3. **Power of 2**: Horizontal sum is the power of 2
-4. **Exponents of 11**: Each line is also the powers (exponents) of 11:
+
+4. **Exponents of 11**: Each line is also the powers (exponents) of 11.
+
+![Octocat](../../assets/images/pascals-triangle-powers-11.gif)
+
 5. **Squares**: The square of a number is equal to the sum of the numbers next to it and below both of those.
+
+![Octocat](../../assets/images/pascals-triangle-squares.gif)
+
 6. **Fibonacci Sequence**: It contains Fibionacci Numbers
-7. **Odds and Evens**: If you color the Odd and Even numbers, you end up with a pattern the same as the Sierpinski Triangle
-![Branching](../../assets/images/odd-numbers.gif)
+
+![Octocat](../../assets/images/pascal-fib.gif)
+
+7. **Odds and Evens**: If you color the Odd and Even numbers, you end up with a pattern similar to Sierpinski Triangle
+
+![Octocat](../../assets/images/odd-numbers.gif)
 
 
 
