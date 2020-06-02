@@ -136,9 +136,9 @@ Pascal's Triangle is a number pattern named after Blaise Pascal, a famous French
 *   Triangular Numbers
 *   Tetrahedral Numbers
 
-2. **Symmetrical**: The triangle is also symmetrical. The numbers on the left side have identical matching numbers on the right side, like a mirror image.
+2. **Symmetrical**: The numbers on the left side have identical matching numbers on the right side.
 
-3. **Power of 2**: Horizontal sum is the power of 2
+3. **Power of 2**: Horizontal sum is the power of 2.
 
 4. **Exponents of 11**: Each line is also the powers (exponents) of 11.
 
@@ -152,10 +152,9 @@ Pascal's Triangle is a number pattern named after Blaise Pascal, a famous French
 
 ![Octocat](../../assets/images/pascal-fib.gif)
 
-7. **Odds and Evens**: If you color the Odd and Even numbers, you end up with a pattern similar to Sierpinski Triangle
+7. **Odds and Evens**: If you color the Odd and Even numbers, you end up with a pattern similar to Sierpinski Triangle.
 
 ![Octocat](../../assets/images/odd-numbers.gif)
-
 
 
 [back](../)
