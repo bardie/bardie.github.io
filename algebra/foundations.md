@@ -70,6 +70,6 @@ layout: default
   \( {10}^{-14} = (\frac{1}{10^14} \)
   </p>
    <p>
-  \( (\frac{1}{x^a} = {x^-a}  \)
+  \( \frac{1}{x^a} = {x^-a} \)
   </p>
   </div>
