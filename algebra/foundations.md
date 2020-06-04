@@ -58,6 +58,7 @@ layout: default
   </div>
   
 5. Power of zero = 1
+
   <div class="math">
   <p>
   \( \frac{4^6}{4^6} = 4^{6} \div 4^{6} = 4^{6-6} = 4^{0} = 1 \)
@@ -65,6 +66,7 @@ layout: default
   </div>
 
 5. Negative Exponents
+
   <div class="math">
   <p>
   \( {10}^{-14} = \frac{1}{10^14} \)
@@ -77,7 +79,8 @@ layout: default
   </p>
   </div>
   
- 6. Complex Functions
+6. Complex Functions
+
   <div class="math">
   <p>
   \( {10}^{-14} = \frac{1}{10^14} \)
@@ -88,4 +91,38 @@ layout: default
   <p>
   \( {2^-3} = \frac{1}{2^3} = \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8}\)
   </p>
+  </div>
+  
+7. Square Roots
+
+  <div class="math">
+  <p>
+  \( \sqrt{a} = {b} \)  which means \( {b^2} = {a} \)
+  </p>
+  <p> Addition and subtraction </p>
+  <p>
+  \( {m}\sqrt{a} + {n}\sqrt{a} = ({m} + {n})\sqrt{a} \)
+  </p>
+  <p>
+  \( {m}\sqrt{a} - {n}\sqrt{a} = ({m} - {n})\sqrt{a} \)
+  </p> 
+  <p> Absolute Values </p>
+  <p>
+  \( \sqrt{a} \times \sqrt{a} = \sqrt{a^2} = |a| \)
+  </p>
+  <p> Multiplication </p>
+  <p>
+  \( \sqrt{a} \times \sqrt{b} = \sqrt{ab} \)
+  </p> 
+  <p> Division </p>\sqrt[3]
+  <p>
+  \( \frac\sqrt{a}\sqrt{b} = \sqrt\frac{a}{b}\)
+  </p>  
+  <p> Radical Form to Fraction </p>
+  <p>
+  \( \sqrt[3]{a} = {a}^\frac{1}{3} \)
+  </p>   
+  <p>
+  \( \sqrt[3]{a^2} = {a}^\frac{2}{3} \)
+  </p>    
   </div>
