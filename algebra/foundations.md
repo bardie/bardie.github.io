@@ -11,7 +11,7 @@ layout: default
  \( 8^{3} \),  \( 3^{4} \),  \( 4^{8} \)
 </p>
  <p>
- \( \frac{1}{5}^{3} \) = \( \frac{1}{5} \times \frac{1}{5} \times \frac{1}{5} \) = \( \frac{1}{125} \)
+ \( (\frac{1}{5})^{3} \) = \( \frac{1}{5} \times \frac{1}{5} \times \frac{1}{5} \) = \( \frac{1}{125} \)
 </p>
 </div>
 
