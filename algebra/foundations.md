@@ -91,8 +91,8 @@ layout: default
   <p>
   \( {10}^{-14} = \frac{1}{10^14} \)
   </p>
-   <p>
-  \( \frac{1}{\frac{1}{3^4} = {1} \div \frac{1}{3^4} = {1} \times \frac{3^4}{1} = {3^4} \)
+  <p>
+  \( \frac{1}{\frac{1}{3^4}} = {1} \div \frac{1}{3^4} = {1} \times \frac{3^4}{1} = {3^4} \)
   </p>
   <p>
   \( {2^-3} = \frac{1}{2^3} = \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8}\)
@@ -122,7 +122,7 @@ layout: default
   </p> 
   <p> Division </p>\sqrt[3]
   <p>
-  \( \frac\sqrt{a}\sqrt{b} = \sqrt\frac{a}{b}\)
+  \( \frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}} \)
   </p>  
   <p> Radical Form to Fraction </p>
   <p>
