@@ -67,7 +67,7 @@ layout: default
 5. Negative Exponents
   <div class="math">
   <p>
-  \( {10}^{-14} = (\frac{1}{10^14} \)
+  \( {10}^{-14} = \frac{1}{10^14} \)
   </p>
    <p>
   \( \frac{1}{x^a} = {x^-a} \)
