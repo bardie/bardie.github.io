@@ -105,26 +105,26 @@ layout: default
   <p>
   \( \sqrt{a} = {b} \)  which means \( {b^2} = {a} \)
   </p>
-  <p> Addition and subtraction </p>
+  <p> <b>Addition and subtraction</b> </p>
   <p>
   \( {m}\sqrt{a} + {n}\sqrt{a} = ({m} + {n})\sqrt{a} \)
   </p>
   <p>
   \( {m}\sqrt{a} - {n}\sqrt{a} = ({m} - {n})\sqrt{a} \)
   </p> 
-  <p> Absolute Values </p>
+  <p> <b>Absolute Values</b> </p>
   <p>
   \( \sqrt{a} \times \sqrt{a} = \sqrt{a^2} = |a| \)
   </p>
-  <p> Multiplication </p>
+  <p> <b>Multiplication</b> </p>
   <p>
   \( \sqrt{a} \times \sqrt{b} = \sqrt{ab} \)
   </p> 
-  <p> Division </p>
+  <p> <b>Division</b> </p>
   <p>
   \( \frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}} \)
   </p>  
-  <p> **Radical Form to Fraction** </p>
+  <p> <b>Radical Form to Fraction</b> </p>
   <p>
   \( \sqrt[3]{a} = {a}^\frac{1}{3} \)
   </p>   
