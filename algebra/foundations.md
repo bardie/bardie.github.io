@@ -133,7 +133,7 @@ layout: default
   </p>    
   </div>
   
-### Factoring methods
+#### Factoring methods
 
   <div class="math">
   <p> <b>Factoring Letters</b> </p>
@@ -145,3 +145,5 @@ layout: default
   \( {12}{x^2}{y^3}{z} + {18}{x^3}{y^2}{z^2} - {24}{x}{y^4}{z^3} = {6}{x^2}{y^2}{z}({2}{y}{z} + {3}{x}{z} - {4}{y^2}{z^2}) \)
   </p> 
   </div>  
+  
+#### FOIL methods
