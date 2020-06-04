@@ -132,3 +132,16 @@ layout: default
   \( \sqrt[3]{a^2} = {a}^\frac{2}{3} \)
   </p>    
   </div>
+  
+### Factoring methods
+
+  <div class="math">
+  <p> <b>Factoring Letters</b> </p>
+  <p>
+  \( {a}{b} + {a}{c} + {a}{d} = {a}({b} + {C} + {d})\)
+  </p>
+  <p> <b>Factoring Numbers</b> </p>
+  <p>
+  \( {12}{x^2}{y^3}{z} + {18}{x^3}{y^2}{z^2} - {24}{x}{y^4}{z^3} = {6}{x^2}{y^2}{z}({2}{y}{z} + {3}{x}{z} - {4}{y^2}{z^2}) \)
+  </p> 
+  </div>  
