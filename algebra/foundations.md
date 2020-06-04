@@ -72,4 +72,7 @@ layout: default
    <p>
   \( \frac{1}{x^a} = {x^-a} \)
   </p>
+  <p>
+  \( {2^-3} = \frac{1}{2^3} = \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8}\)
+  </p>
   </div>
