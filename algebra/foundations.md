@@ -120,7 +120,7 @@ layout: default
   <p>
   \( \sqrt{a} \times \sqrt{b} = \sqrt{ab} \)
   </p> 
-  <p> Division </p>\sqrt[3]
+  <p> Division </p>
   <p>
   \( \frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}} \)
   </p>  
