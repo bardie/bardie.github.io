@@ -31,10 +31,10 @@ layout: default
 
   <div class="math">
   <p>
-  \(\frac{4^6}{4^x}\)
+  \( \frac{4^6}{4^x} = 4^{6} \div 4^{x} = 4^{6-x} \)
   </p>
   <p>
-  \(\frac{a^6}{a}\)
+  \(\frac{a^6}{a} = a^{6} \div a^{1} = a^{6 - 1} = a^{5}\)
   </p>
   </div>
   
@@ -48,3 +48,28 @@ layout: default
   (\(8^{3})^{4}\) = \( 8^{12} \)
   </p>
   </div>  
+  
+4. Multiply Powers of the same base
+
+  <div class="math">
+  <p>
+  \( 2^{3} \times 2^{4} \) = \( 2^{3 + 4} \)
+  </p>
+  </div>
+  
+5. Power of zero = 1
+  <div class="math">
+  <p>
+  \( \frac{4^6}{4^6} = 4^{6} \div 4^{6} = 4^{6-6} = 4^{0} = 1 \)
+  </p>
+  </div>
+
+5. Negative Exponents
+  <div class="math">
+  <p>
+  \( {10}^{-14} = (\frac{1}{10^14} \)
+  </p>
+   <p>
+  \( (\frac{1}{x^a} = {x^-a}  \)
+  </p>
+  </div>
