@@ -15,7 +15,7 @@ layout: default
 </p>
 </div>
 
-### Exponent Properties
+#### Exponent Properties
 1. Multiply Powers
 
   <div class="math">
@@ -133,7 +133,8 @@ layout: default
   </p>    
   </div>
   
-#### Factoring methods
+#### Methods used in Algebra
+##### Factoring methods
 
   <div class="math">
   <p> <b>Factoring Letters</b> </p>
@@ -146,4 +147,26 @@ layout: default
   </p> 
   </div>  
   
-#### FOIL methods
+##### FOIL methods
+Quadratic equations are formed from multiplying two binomials or expressions.
+
+Example:
+  <div class="math">
+  <p> <b>Factoring Letters</b> </p>
+  <p>
+  \( {6}{x^2} + {7x} - {3} \)
+   </p>
+   <p>
+   <p> <b>First (F): Product of the first terms</b> </p>
+   \( {2x} \times {3x} = {6}{x^2} \)
+  </p>
+  <p> <b>Outer (O): Product of the outer terms</b> </p>
+  \( {-1} \times {3} = {-3} \)
+  
+  <p> <b>Inner (I): Product of the inner terms</b> </p> 
+  
+  \( ({2} \times {-1}) + ({3} \times {3}) = {-2} + {9} = {7} \)
+  
+  <p> <b>Last (L): Product of the last terms</b> </p>
+  \( {-3} \)
+  </div>  
