@@ -124,7 +124,7 @@ layout: default
   <p>
   \( \frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}} \)
   </p>  
-  <p> Radical Form to Fraction </p>
+  <p> **Radical Form to Fraction** </p>
   <p>
   \( \sqrt[3]{a} = {a}^\frac{1}{3} \)
   </p>   
