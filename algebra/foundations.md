@@ -76,3 +76,16 @@ layout: default
   \( {2^-3} = \frac{1}{2^3} = \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8}\)
   </p>
   </div>
+  
+ 6. Complex Functions
+  <div class="math">
+  <p>
+  \( {10}^{-14} = \frac{1}{10^14} \)
+  </p>
+   <p>
+  \( \frac{1}{\frac{1}{3^4} = {1} \div \frac{1}{3^4} = {1} \times \frac{3^4}{1} = {3^4} \)
+  </p>
+  <p>
+  \( {2^-3} = \frac{1}{2^3} = \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8}\)
+  </p>
+  </div>
