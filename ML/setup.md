@@ -28,22 +28,22 @@ The tool can also be integrated with machine learning based tools for deep analy
     ```
 
 #### Requirements
-- Java: Oracle JDK 1.7 and Above
-- Operating System: Windows, Ubuntu, CentOS and macOS
-- Python: Download the most recent and stable version of Python 2.7 and Python 3
+- **Java**: Oracle JDK 1.7 and Above
+- **Operating System**: Windows, Ubuntu, CentOS and macOS
+- **Python**: Download the most recent and stable version of Python 2.7 and Python 3
   - Make sure you add python to your System environment variables before you try and run the command ‘python’ on your command-line.
-  - [PIP](https://bootstrap.pypa.io/get-pip.py): Download the script from this link:  and run it on your command line as illustrated below:
+  - **[PIP](https://bootstrap.pypa.io/get-pip.py)**: Download the script from this link:  and run it on your command line as illustrated below:
     ```
     $  python  get-pip.py
     ```
-- Machine Learning Libraries: Install this libraries using pip: Numpy, Scipy, Scikit-learn, Theano, TensorFlow, Keras, PyTorch, Pandas, Matplotlib
+- **Machine Learning Libraries**: Install this libraries using pip: Numpy, Scipy, Scikit-learn, Theano, TensorFlow, Keras, PyTorch, Pandas, Matplotlib
   ```
   $    pip install sklearn scikit-learn pyspark pandas numpy matploitlib scipy tensorflow keras pytorch
   $    pip3 install sklearn scikit-learn pyspark pandas numpy matploitlib scipy tensorflow keras pytorch
   ```
-- Databases (Optional): Elasticsearch, MySQL, Oracle, PostgreSQL etc.
-- Machine Learning Applications (Optional): Apache SPARK, Apache Hadoop, Apache Kafka etc.
-- GIT: Optional for [Windows](https://git-scm.com/downloads) if you want a Linux based command line. 
+- **Databases (Optional)**: Elasticsearch, MySQL, Oracle, PostgreSQL etc.
+- **Machine Learning Applications (Optional)**: Apache SPARK, Apache Hadoop, Apache Kafka etc.
+- **GIT**: Optional for [Windows](https://git-scm.com/downloads) if you want a Linux based command line. 
 
 #### Setup
 - Start Apache Zeppelin by running the following commands:
