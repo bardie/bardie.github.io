@@ -10,12 +10,12 @@ Variables are used to store values. A string is a series of characters, surround
 
 ### Variables
 ```
-msg = "Hello world!"   #Variable
+msg = "Hello world!" 
 print(msg)
 ```
 ### Strings
 ```
-print("Hello world!")  #String
+print("Hello world!")
 ```
 
 ### Integers
