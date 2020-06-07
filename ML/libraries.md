@@ -5,6 +5,9 @@ layout: default
 # Machine Learning Python Libraries
 
 ## MatploitLib
+
+![MatploitLib](../../assets/images/matploitable.png)
+
 Matplotlib is an interactive, cross-platform library for two-dimensional plotting. It can produce high-quality graphs, charts and plots in several hardcopy formats.
 
 ### Advantages:
@@ -22,6 +25,8 @@ Matplotlib is an interactive, cross-platform library for two-dimensional plottin
 
 ## Numpy
 
+![Numpy](../../assets/images/numpy.jpeg)
+
 NumPy adds multi-dimensional array and matrix processing to Python, as well as a large collection of high-level mathematical functions. It is commonly used for scientific computing and hence, one of the most used Python Packages for machine learning.
 
 ### Advantages
@@ -38,6 +43,8 @@ NumPy adds multi-dimensional array and matrix processing to Python, as well as a
 
 ## Scipy
 
+![Scipy](../../assets/images/scipy.png)
+
 SciPy is a very popular ML library with different modules for optimization, linear algebra, integration and statistics.
 
 ### Advantages
@@ -52,6 +59,8 @@ SciPy is a very popular ML library with different modules for optimization, line
 - There is both a stack and a library named SciPy. The library is part of the stack. Beginners who don’t know the difference may become confused.
 
 ## Pandas
+
+![Pandas](../../assets/images/pandas.png)
 
 Pandas is a Python library for providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
@@ -70,6 +79,8 @@ Pandas is a Python library for providing high-performance, easy-to-use data stru
 - Less suitable for n-dimensional arrays and statistical modeling. Use NumP, SciPy or SciKit Learn instead.
 
 ## Tensorflow
+
+![Tensorflow](../../assets/images/tensorflow.png)
 
 Originally developed by Google, TensorFlow is an open-source library for high-performance numerical computation using data flow graphs.
 
@@ -94,6 +105,8 @@ Under the hood, it’s actually a framework for creating and running computation
 
 ## Keras
 
+![Keras](../../assets/images/keras.png)
+
 Keras is a very popular ML for Python, providing a high-level neural network API capable of running on top of TensorFlow, CNTK, or Theano.
 
 ### Advantages
@@ -108,6 +121,8 @@ Keras is a very popular ML for Python, providing a high-level neural network API
 - Slow, since it needs to create a computational graph before it can perform operations.
 
 ## PyTorch
+
+![PyTorch](../../assets/images/pytorch.jpeg)
 
 PyTorch is a popular ML library for Python based on Torch, which is an ML library implemented in C and wrapped in Lua. It was originally developed by Facebook, but is now used by Twitter, Salesforce, and many other major organizations and businesses.
 
@@ -128,6 +143,8 @@ PyTorch is a popular ML library for Python based on Torch, which is an ML librar
 
 ## Scikit-learn
 
+![Scikit-learn](../../assets/images/scikit.png)
+
 The Python library, Scikit-Learn, is built on top of the matplotlib, NumPy, and SciPy libraries. This Python ML library has several tools for data analysis and data mining tasks.
 
 ### Advantages
@@ -143,6 +160,8 @@ The Python library, Scikit-Learn, is built on top of the matplotlib, NumPy, and 
 - This library is especially suited for supervised learning, and not very suited to unsupervised learning applications like Deep Learning.
 
 ## Spark MLib
+
+![Spark MLib](../../assets/images/mlib.png)
 
 MLlib is, as implied by its fairly straightforward name, a machine learning library, maintained as a part of Apache Spark. It is intended as a tool for big data processing; one could also call it an open-source cluster computing platform.
 
@@ -163,6 +182,8 @@ It is fully interoperable with NumPy library and R language and runs on multiple
 
 ##  Natural Language Toolkit (NLTK)
 
+![NLTK](../../assets/images/nltk.png)
+
 NLTK is a framework and suite of libraries for developing both symbolic and statistical Natural Language Processing (NLP) in Python. It is the standard tool for NLP in Python.
 
 ### Advantages
@@ -179,6 +200,8 @@ NLTK is a framework and suite of libraries for developing both symbolic and stat
 - NLTK does sentence tokenization by splitting the text into sentences. This has a negative impact on the performance.
 
 ## Seaborn 
+
+![Seaborn](../../assets/images/seaborn.png)
 
 Seaborn is a library for making statistical graphs in Python. It is built on top of matplotlib and also integrated with pandas data structures.
 
