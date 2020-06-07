@@ -1,3 +1,6 @@
 ---
-layout: post
+layout: default
 ---
+
+
+## About
