@@ -25,6 +25,8 @@ msg = 1   #Integer
 print(msg)
 ```
 
+# References
+- https://ehmatthes.github.io/pcc/cheatsheets/README.html
 ## Concatenation (combining strings)
 
 ```
