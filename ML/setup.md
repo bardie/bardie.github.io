@@ -5,6 +5,7 @@ layout: default
 ## Environment Setup
 
 ### APACHE Zeppelin
+![Zeppelin](../../assets/images/notebook.png)
 #### Description
 Apache Zeppelin is a web-based notebook that enables interactive data analytics. You can think of it as a smart notepad++ with capabilities of reading and breaking down log files, analyzing the data using simple SQL like queries and displaying the results in a chart. It can be used as a reporting or dashboard module depending on your needs.
 
