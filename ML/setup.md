@@ -12,7 +12,7 @@ Apache Zeppelin is a web-based notebook that enables interactive data analytics.
 The tool can also be integrated with machine learning based tools for deep analytics and automation.
 
 #### Installation
-1. [All interpreterse](https://downloads.apache.org/zeppelin/zeppelin-0.9.0-preview1/zeppelin-0.9.0-preview1-bin-all.tgz):  Download the full Zeppelin Installer with all interpreters. (1.5 GB)
+1. [All interpreters](https://downloads.apache.org/zeppelin/zeppelin-0.9.0-preview1/zeppelin-0.9.0-preview1-bin-all.tgz):  Download the full Zeppelin Installer with all interpreters. (1.5 GB)
 2. [Net-install interpreter package](https://downloads.apache.org/zeppelin/zeppelin-0.9.0-preview1/zeppelin-0.9.0-preview1-bin-netinst.tgz): Unpack the default setup and follow install additional interpreters to install interpreters. (723 MB)
   - Script to install all interpreters
     ```
