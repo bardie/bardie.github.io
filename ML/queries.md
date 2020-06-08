@@ -55,6 +55,14 @@ schema = StructType([StructField("Timestamp", TimestampType(), True),
 df = spark.read.csv('/home/test/file.csv', schema=schema, inferSchema=True).sort("Timestamp", ascending=True).na.drop()
 ```
 
+### JSON
+
+#### Spark
+
+```
+df = spark.read.json('/home/feng/Desktop/data.json')
+```
+
 ### Excel
 
 #### Pandas
@@ -68,6 +76,32 @@ df = pd.read_excel(xlsx, 'Sheet1')
 ```
 
 ## Read and Write to SQL Query or Database Table
+
+
+####  From HDFS
+
+##### Spark
+
+```
+from pyspark.conf import SparkConf
+from pyspark.context import SparkContext
+from pyspark.sql import HiveContext
+sc= SparkContext('local','example')
+hc = HiveContext(sc)
+tf1 = sc.textFile("hdfs://###/user/data/file_name")
+```
+
+#### PostgreSQL
+
+##### Spark
+
+```
+user = 'username'; pw ='password'
+table_name = 'table_name'
+url='jdbc:postgresql://##.###.###.##:5432/dataset?user='+user+'&password='+pw
+p='driver':'org.postgresql.Driver','password':pw,'user':user
+df = spark.read.jdbc(url=url,table=table_name,properties=p)
+```
 
 #### SQLITE
 
