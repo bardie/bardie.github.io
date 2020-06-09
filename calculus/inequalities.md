@@ -121,7 +121,7 @@ Tom must attempt 2 or more failed logon attempts to trigger the bruteforce attac
 \(\frac{-1}{-2} \lt x \leq -\frac{2}{2} \)
 </p>
 <p>
-\(\frac{1}{2} \lt x \geq -{1} \)
+\(\frac{1}{2} \gt x \geq -{1} \)
 </p>
 <p>
 \( (-{1},\frac{1}{2}) \)
