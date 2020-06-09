@@ -43,6 +43,24 @@ An inequality compares two values, showing if one is less than, greater than, or
 </p>
 </div>
 
+### Interval Notation
+
+Interval notation is a way of writing subsets of the real number line.
+
+#### Closed Interval 
+
+This is an interval that includes its endpoints: for example, the set {x | −3≤x≤1}. To write this interval in interval notation, we use closed brackets [ ]: [−3,1]
+
+#### Open Interval 
+
+An open interval is one that does not include its endpoints, for example, {x | −3<x<1}. To write this interval in interval notation, use parentheses : (−3,1)
+
+#### Half-Open and Half-Closed Interval 
+
+You can also have intervals which are half-open and half-closed: [−2,4)
+
+You can also use interval notation together with the set union operator to write subsets of the number line made up of more than one interval: [−4,−2]∪(−1,1)∪(1,2]∪{4}
+
 ### Cyber Security Example
 
 In order for a bruteforce attack rule to be triggered on the security monitoring system, a user has to attempt at least 5 failed logins. Tom has failed to log into a device 3 times. How many failed logons must Tom attempt before the rule is triggered?
@@ -61,6 +79,9 @@ Let x = the number of failed logons. The failed number of failed logons must be 
 <p>
 \(x ≥ 2\)
 </p>
+<p>
+\( (-\infty ≥ 2] \)
+</p>
 </div>
 
 Tom must attempt 2 or more failed logon attempts to trigger the bruteforce attack rule.
@@ -68,7 +89,7 @@ Tom must attempt 2 or more failed logon attempts to trigger the bruteforce attac
 #### Example 2
 
 <div class="math">
-<p> \(3 + 2x \lt 7\) </p>
+<p> Solve \(3 + 2x \lt 7\) </p>
 <p>
 \( 2x \lt 7 - 3 \)
 </p>
@@ -80,6 +101,9 @@ Tom must attempt 2 or more failed logon attempts to trigger the bruteforce attac
 </p>
 <p>
 \(x \lt 2 \)
+</p>
+<p>
+\( (-\infty \lt 2) \)
 </p>
 </div>
 
