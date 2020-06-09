@@ -6,44 +6,44 @@ layout: default
 
 An inequality compares two values, showing if one is less than, greater than, or simply not equal to another value.
 
-*** Equal To ***
+**Equal To**
 <div class="math">
 <p>
 \(a = b\)
 </p>
 </div>
-*** Not Equal To ***
+**Not Equal To**
 <div class="math">
 <p>
 \(a ≠ b\)
 </p>
 </div>
-*** Less Than ***
+**Less Than**
 <div class="math">
 <p>
 \(a < b\)
 </p>
 </div>
-*** Greater Than ***
+**Greater Than**
 <div class="math">
 <p>
 \(a > b\)
 </p>
 </div>
-*** Less Than or Equal To ***
+**Less Than or Equal To**
 <div class="math">
 <p>
 \(a ≤ b\)
 </p>
 </div>
-*** Greater Than or Equal To  ***
+**Greater Than or Equal To**
 <div class="math">
 <p>
 \(a ≥ b\)
 </p>
 </div>
 
-### Example
+### Cyber Security Example
 
 In order for a bruteforce attack rule to be triggered on the security monitoring system, a user has to attempt at least 5 failed logins. Tom has failed to log into a device 3 times. How many failed logons must Tom attempt before the rule is triggered?
 
@@ -64,5 +64,23 @@ Let x = the number of failed logons. The failed number of failed logons must be 
 </div>
 
 Tom must attempt 2 or more failed logon attempts to trigger the bruteforce attack rule.
+
+#### Example 2
+
+<div class="math">
+<p> \(3 + 2x \lt 7\) </p>
+<p>
+\( 2x \lt 7 - 3 \)
+</p>
+<p>
+\( 2x \lt 4 \)
+</p>
+<p>
+\(x \lt 4 \div 2 \)
+</p>
+<p>
+\(x \lt 2 \)
+</p>
+</div>
 
 [back](./)
