@@ -80,7 +80,7 @@ Let x = the number of failed logons. The failed number of failed logons must be 
 \(x ≥ 2\)
 </p>
 <p>
-\( (-\infty ≥ 2] \)
+\( (-\infty,2] \)
 </p>
 </div>
 
@@ -103,8 +103,29 @@ Tom must attempt 2 or more failed logon attempts to trigger the bruteforce attac
 \(x \lt 2 \)
 </p>
 <p>
-\( (-\infty \lt 2) \)
+\( (-\infty,2) \)
 </p>
-</div>
+</div> 
+
+#### Example 3
+
+<div class="math">
+<p> Solve \(4 \lt -2x + 5 \leq 7\) </p>
+<p>
+\( 4 - 5 \lt -2x \leq 7 - 5 \)
+</p>
+<p>
+\( -1 \lt -2x \leq 2 \)
+</p>
+<p>
+\(\frac{-1}{-2} \lt x \leq -\frac{2}{2} \)
+</p>
+<p>
+\(\frac{1}{2} \lt x \geq -{1} \)
+</p>
+<p>
+\( (-{1},\frac{1}{2}) \)
+</p>
+</div> 
 
 [back](./)
