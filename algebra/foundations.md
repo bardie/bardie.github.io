@@ -70,6 +70,14 @@ layout: default
 </p>
 </div>
 
+### Distributive Property
+
+<div class="math">
+<p>
+ \( {a} ({b} + {c}) = ({a}{b} + {a}{c}) \)
+</p>
+</div>
+
 ## Exponents
 
 <div class="math">
