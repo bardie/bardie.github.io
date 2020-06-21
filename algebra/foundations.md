@@ -153,28 +153,16 @@ Quadratic equations are formed from multiplying two binomials or expressions.
 Example 1:
 <div class="math">
 <p> <b>Factoring Letters</b> </p>
-<p>
-  \( {6}{x^2} + {7x} - {3} \)
-</p>
-<p>
+<p> \( {6}{x^2} + {7x} - {3} \) </p>
 <p> <b>First (F): Product of the first terms</b> </p>
-<p>    \( {2x} \times {3x} = {6}{x^2} \)
-</p>
+<p>    \( {2x} \times {3x} = {6}{x^2} \) </p>
 <p> <b>Outer (O): Product of the outer terms</b> </p>
-<p>   
- \( {1} \times {-3} = {-3} \) 
- </p>  
+<p>   \( {1} \times {-3} = {-3} \) </p>  
 <p> <b>Inner (I): Product of the inner terms</b> </p>  
- <p>   
-  \( ({2} \times {1}) + ({3} \times {-3}) = {2} + {-9} = {-7} \)
-  </p>  
+<p>  \( ({2} \times {1}) + ({3} \times {-3}) = {2} + {-9} = {-7} \) </p>  
 <p> <b>Last (L): Product of the last terms</b> </p>
-<p>  
- \( {-3} \) 
- </p>  
-<p> 
+<p>  \( {-3} \) </p>  
  <b>Answer: \( ({2x} - {3}) ({3x} + {1}) \) </b> 
- </p>
 </div>  
   
 Example 2:
