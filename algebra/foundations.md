@@ -156,7 +156,7 @@ Example 1:
 <p> \( {6}{x^2} + {7x} - {3} \) </p>
 <p> <b>First (F): Product of the first terms</b> </p>
 <p>    \( {2x} \times {3x} = {6}{x^2} \) </p>
-<p> <b>Outer (O): Product of the outer terms</b> </p>
+<p> <b>Outer (O): Product of the outer terms</b> (Get the multiple that when added on the next step will equal +7) </p>
 <p>   \( {1} \times {-3} = {-3} \) </p>  
 <p> <b>Inner (I): Product of the inner terms</b> </p>  
 <p>  \( ({2} \times {1}) + ({3} \times {-3}) = {2} + {-9} = {-7} \) </p>  
@@ -171,8 +171,8 @@ Example 2:
 <p> \( {2}{x^2} + {5x} - {12} \) </p>
 <p> <b>First (F): Product of the first term</b> </p>
 <p>  \( {2x} \times {1x} = {2}{x^2} \) </p>
-<p> <b>Outer (O): Product of the outer term</b> </p>
-<p>  \( {4} \times {-3} = {-12} \)  #Get the multiple that when added will equal +5   </p>
+<p> <b>Outer (O): Product of the outer term (Get the multiple that when added on the next step will equal +5) </b> </p>
+<p>  \( {4} \times {-3} = {-12} \)    </p>
 <p> <b>Inner (I): Product of the inner term</b> </p>   
 <p>  \( ({2} \times {4}) + ({1} \times {-3}) = {8} + {-3} = {5} \)  </p>
 <p> <b>Last (L): Product of the last term</b> </p>
