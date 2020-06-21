@@ -252,4 +252,32 @@ Example 2:
 <p> <b>Last (L): Product of the last term</b> </p>
 <p>  \( {-12} \) </p>
 <p> <b>Answer: \( ({2x} - {3}) ({1x} + {4}) \) </b> </p>
+</div> 
+
+#### Least Common Multiple (LCM) Methods
+The LCM is the smallest integer that can be found such that it is divisible by each integer from the given set.
+
+<div class="math">
+<p> <b>Factor each number into its prime factor</b> </p>
+<p> <b>Example: Find the LCM of 12 and 21</b> </p>
+<p> \( {2} \times {2} \times {3} = {12} \) </p>
+<p> \( {3} \time {7} = {21} \) </p>
+<p> <b>The unique prime factors are:</b> </p>
+<p>    \( {2}, {3}, {7} \) </p>
+<p> <b>The product of the terms </p>
+<p>   \( {2^2} \times {3} \times {7} = {4} \times {21} = {84} \) </p>  
 </div>  
+
+#### Greatest Common Divisor (GCD) Methods
+The GCD is the greatest integer that will divide into both integers.
+
+<div class="math">
+<p> <b>Factor each number into its prime factor</b> </p>
+<p> <b>Example: Find the GCD of 24 and 60</b> </p>
+<p> \( {2} \times {2} \times {2} \times {3} = {24} \) </p>
+<p> \( {2} \times {2} \times {3} \time {5} = {60} \) </p>
+<p> <b>The common numbers are:</b> </p>
+<p>    \( {2}, {3} \) </p>
+<p> <b>Two is common on both 2 times while 3 is common once. So the GCD is: </p>
+<p>   \( {2} \times {2} \times {3} = {12} \) </p>  
+</div> 
