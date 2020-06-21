@@ -188,7 +188,7 @@ Example 2:
    \( {2x} \times {1x} = {2}{x^2} \)
 </p>
 <p> <b>Outer (O): Product of the outer term</b> </p>
-  \( {4} \times {-3} = {5} \)  #Get the multiple that when added will equal +5
+  \( {4} \times {-3} = {-12} \)  #Get the multiple that when added will equal +5
   
 <p> <b>Inner (I): Product of the inner term</b> </p> 
   
