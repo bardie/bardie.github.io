@@ -275,7 +275,7 @@ The GCD is the greatest integer that will divide into both integers.
 <p> <b>Factor each number into its prime factor</b> </p>
 <p> <b>Example: Find the GCD of 24 and 60</b> </p>
 <p> \( {2} \times {2} \times {2} \times {3} = {24} \) </p>
-<p> \( {2} \times {2} \times {3} \time {5} = {60} \) </p>
+<p> \( {2} \times {2} \times {3} \times {5} = {60} \) </p>
 <p> <b>The common numbers are:</b> </p>
 <p>    \( {2}, {3} \) </p>
 <p> <b>Two is common on both 2 times while 3 is common once. So the GCD is: </p>
