@@ -168,22 +168,14 @@ Example 1:
 Example 2:
 <div class="math">
 <p> <b>Factoring Letters</b> </p>
-<p>
-  \( {2}{x^2} + {5x} - {12} \)
-</p>
-<p>
+<p> \( {2}{x^2} + {5x} - {12} \) </p>
 <p> <b>First (F): Product of the first term</b> </p>
-   \( {2x} \times {1x} = {2}{x^2} \)
-</p>
+<p>  \( {2x} \times {1x} = {2}{x^2} \) </p>
 <p> <b>Outer (O): Product of the outer term</b> </p>
-  \( {4} \times {-3} = {-12} \)  #Get the multiple that when added will equal +5
-  
-<p> <b>Inner (I): Product of the inner term</b> </p> 
-  
-  \( ({2} \times {4}) + ({1} \times {-3}) = {8} + {-3} = {5} \)
-  
+  \( {4} \times {-3} = {-12} \)  #Get the multiple that when added will equal +5  
+<p> <b>Inner (I): Product of the inner term</b> </p>   
+  \( ({2} \times {4}) + ({1} \times {-3}) = {8} + {-3} = {5} \) 
 <p> <b>Last (L): Product of the last term</b> </p>
-  \( {-12} \)
-  
+  \( {-12} \)  
 <p> <b>Answer: \( ({2x} - {3}) ({1x} + {4}) \) </b> </p>
 </div>  
