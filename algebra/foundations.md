@@ -261,7 +261,7 @@ The LCM is the smallest integer that can be found such that it is divisible by e
 <p> <b>Factor each number into its prime factor</b> </p>
 <p> <b>Example: Find the LCM of 12 and 21</b> </p>
 <p> \( {2} \times {2} \times {3} = {12} \) </p>
-<p> \( {3} \time {7} = {21} \) </p>
+<p> \( {3} \times {7} = {21} \) </p>
 <p> <b>The unique prime factors are:</b> </p>
 <p>    \( {2}, {3}, {7} \) </p>
 <p> <b>The product of the terms </p>
