@@ -172,10 +172,10 @@ Example 2:
 <p> <b>First (F): Product of the first term</b> </p>
 <p>  \( {2x} \times {1x} = {2}{x^2} \) </p>
 <p> <b>Outer (O): Product of the outer term</b> </p>
-  \( {4} \times {-3} = {-12} \)  #Get the multiple that when added will equal +5  
+<p>  \( {4} \times {-3} = {-12} \)  #Get the multiple that when added will equal +5   </p>
 <p> <b>Inner (I): Product of the inner term</b> </p>   
-  \( ({2} \times {4}) + ({1} \times {-3}) = {8} + {-3} = {5} \) 
+<p>  \( ({2} \times {4}) + ({1} \times {-3}) = {8} + {-3} = {5} \)  </p>
 <p> <b>Last (L): Product of the last term</b> </p>
-  \( {-12} \)  
+<p>  \( {-12} \) </p>
 <p> <b>Answer: \( ({2x} - {3}) ({1x} + {4}) \) </b> </p>
 </div>  
