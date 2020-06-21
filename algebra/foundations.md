@@ -165,7 +165,7 @@ Example 1:
   
 <p> <b>Inner (I): Product of the inner terms</b> </p> 
   
-  \( ({2} \times {1}) + ({3} \times {-3}) = {2} + {-9} = {7} \)
+  \( ({2} \times {1}) + ({3} \times {-3}) = {2} + {-9} = {-7} \)
   
 <p> <b>Last (L): Product of the last terms</b> </p>
   \( {-3} \)
