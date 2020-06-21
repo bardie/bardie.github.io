@@ -4,6 +4,72 @@ layout: default
 
 # Algebra Foundations
 
+## Algebraic Properties
+
+### Cummulative Property of Addition
+
+<div class="math">
+<p>
+ \( {a} + {b} = {b} + {a} \)
+</p>
+</div>
+
+### Associative Property of Addition
+
+<div class="math">
+<p>
+ \( {a} + ({b} + {c}) = ({a} + {b}) + {c} \)
+</p>
+</div>
+
+### Inverse Property of Addition
+
+<div class="math">
+<p>
+ \( {a} + ({-a}) = {0} \)
+</p>
+</div>
+
+### Associative Property of Addition
+
+<div class="math">
+<p>
+ \( {a} + ({b} + {c}) = ({a} + {b}) + {c} \)
+</p>
+</div>
+
+### Identity Property of Addition
+
+<div class="math">
+<p>
+ \( {a} + ({0}) = {a} \)
+</p>
+</div>
+
+### Cummulative Property of Multiplication
+
+<div class="math">
+<p>
+ \( {a} \times {b} = {b} \times {a} \)
+</p>
+</div>
+
+### Associative Property of Multiplication
+
+<div class="math">
+<p>
+ \( {a} \times ({b} \times {c}) = ({a} \times {b}) \times {c} \)
+</p>
+</div>
+
+### Multiplicative Inverse Property
+
+<div class="math">
+<p>
+ \( {a}(\frac{1}{a}) + (\frac{1}{a}){a} = {1}, {a} \neq {0} \)
+</p>
+</div>
+
 ## Exponents
 
 <div class="math">
