@@ -254,6 +254,26 @@ Example 2:
 <p> <b>Answer: \( ({2x} - {3}) ({1x} + {4}) \) </b> </p>
 </div> 
 
+#### unFOIL methods
+
+Example 1:
+<div class="math">
+<p> <b>Factoring Letters</b> </p>
+<p> \( {2}{x^2} - {5x} - {12} \) </p>
+<p> <b>First (F): Product of the first terms</b> </p>
+<p>    \( {2x} \times {1x} = {2}{x^2} \) </p>
+<p> <b>Outer (O): Product of the outer terms</b> (Get the multiple that when added on the next step will equal -5) </p>
+<p>   \( {4} \times {3} = {12} \) </p>  
+<p> <b>Look at the signs of the outer value and get the product of the </b> </p>  
+<p>  \( ({2} \times {4}) - ({1} \times {3}) = {5} \) </p>  
+<p> <b>The value is positive but we need a negative value </b> </p>  
+<p>  \( ({1} \times {3}) - ({2} \times {4}) = {-5} \) </p> 
+<p> <b>Arrange the choices in binomials </b> </p>
+<p>  \( ({1x} {4}) ({2x} {3}) \) </p>  
+ <p> <b>Place the signs </b> </p>
+ <b>Answer: \( ({1x} - {4}) ({2x} + {3}) \) </b> 
+</div>  
+
 #### Least Common Multiple (LCM) Methods
 The LCM is the smallest integer that can be found such that it is divisible by each integer from the given set.
 
