@@ -264,7 +264,7 @@ The LCM is the smallest integer that can be found such that it is divisible by e
 <p> \( {3} \times {7} = {21} \) </p>
 <p> <b>The unique prime factors are:</b> </p>
 <p>    \( {2}, {3}, {7} \) </p>
-<p> <b>The product of the terms </p>
+ <p> <b>The product of the terms </b> </p>
 <p>   \( {2^2} \times {3} \times {7} = {4} \times {21} = {84} \) </p>  
 </div>  
 
@@ -278,6 +278,6 @@ The GCD is the greatest integer that will divide into both integers.
 <p> \( {2} \times {2} \times {3} \times {5} = {60} \) </p>
 <p> <b>The common numbers are:</b> </p>
 <p>    \( {2}, {3} \) </p>
-<p> <b>Two is common on both 2 times while 3 is common once. So the GCD is: </p>
+ <p> <b>Two is common on both 2 times while 3 is common once. So the GCD is: </b> </p>
 <p>   \( {2} \times {2} \times {3} = {12} \) </p>  
 </div> 
