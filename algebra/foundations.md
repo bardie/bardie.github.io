@@ -139,7 +139,7 @@ layout: default
   <div class="math">
   <p> <b>Factoring Letters</b> </p>
   <p>
-  \( {a}{b} + {a}{c} + {a}{d} = {a}({b} + {C} + {d})\)
+  \( {a}{b} + {a}{c} + {a}{d} = {a}({b} + {c} + {d})\)
   </p>
   <p> <b>Factoring Numbers</b> </p>
   <p>
@@ -161,16 +161,16 @@ Example 1:
    \( {2x} \times {3x} = {6}{x^2} \)
 </p>
 <p> <b>Outer (O): Product of the outer terms</b> </p>
-  \( {-1} \times {3} = {-3} \)
+  \( {1} \times {-3} = {-3} \)
   
 <p> <b>Inner (I): Product of the inner terms</b> </p> 
   
-  \( ({2} \times {-1}) + ({3} \times {3}) = {-2} + {9} = {7} \)
+  \( ({2} \times {1}) + ({3} \times {-3}) = {2} + {-9} = {7} \)
   
 <p> <b>Last (L): Product of the last terms</b> </p>
   \( {-3} \)
   
-<p> <b>Answer: \( ({2x} - {3}) ({3x} - {1}) \) </b> </p>
+<p> <b>Answer: \( ({2x} - {3}) ({3x} + {1}) \) </b> </p>
     
 </div>  
   
