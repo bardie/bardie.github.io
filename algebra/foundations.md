@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Algebra Foundations
+# Algebra Foundations
 
-### Exponents
+## Exponents
 
 <div class="math">
 <p>
@@ -15,8 +15,8 @@ layout: default
 </p>
 </div>
 
-#### Exponent Properties
-1. Multiply Powers
+### Exponent Properties
+* Multiply Powers
 
   <div class="math">
   <p>
@@ -33,7 +33,7 @@ layout: default
   </p>  
   </div>
   
-2. Divide Powers
+* Divide Powers
 
   <div class="math">
   <p>
@@ -44,7 +44,7 @@ layout: default
   </p>
   </div>
   
-3. Powers of Products and Quotients
+* Powers of Products and Quotients
 
   <div class="math">
   <p>
@@ -55,7 +55,7 @@ layout: default
   </p>
   </div>  
   
-4. Multiply Powers of the same base
+* Multiply Powers of the same base
 
   <div class="math">
   <p>
@@ -63,7 +63,7 @@ layout: default
   </p>
   </div>
   
-5. Power of zero = 1
+* Power of zero = 1
 
   <div class="math">
   <p>
@@ -71,7 +71,7 @@ layout: default
   </p>
   </div>
 
-5. Negative Exponents
+* Negative Exponents
 
   <div class="math">
   <p>
@@ -85,7 +85,7 @@ layout: default
   </p>
   </div>
   
-6. Complex Functions
+* Complex Functions
 
   <div class="math">
   <p>
@@ -99,7 +99,7 @@ layout: default
   </p>
   </div>
   
-7. Square Roots
+* Square Roots
 
   <div class="math">
   <p>
@@ -133,8 +133,8 @@ layout: default
   </p>    
   </div>
   
-#### Methods used in Algebra
-##### Factoring methods
+### Methods used in Algebra
+#### Factoring methods
 
   <div class="math">
   <p> <b>Factoring Letters</b> </p>
@@ -147,7 +147,7 @@ layout: default
   </p> 
   </div>  
   
-##### FOIL methods
+#### FOIL methods
 Quadratic equations are formed from multiplying two binomials or expressions.
 
 Example 1:
